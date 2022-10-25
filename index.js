@@ -1,1 +1,1 @@
-import './src/js/errorRepository.js'
+import './src/js/errorRepository.js';
